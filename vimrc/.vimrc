@@ -1,8 +1,4 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Maintainer:
-"   Roberto Andradas Izquierdo
-"   randradas@gmail.com
-"
 " Sections:
 "   -> VIM user interface
 "   -> Colors and fonts
